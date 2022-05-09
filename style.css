@@ -1,0 +1,78 @@
+.truyenhot{
+	display: flex;
+}
+
+.nav-1{
+	display: flex;
+}
+.nav a{
+	 min-width: max-content;
+	 color: #479f76;
+}
+.nav p{
+	min-width: max-content;
+}
+.nav-2 p{
+	text-align:right;
+}
+.trangchu p{
+font-family: fontcv;
+}
+@font-face{
+	font-family: fontcv;
+	 src: url(anhtruyen/WaterBrush-Regular.ttf);
+}
+a{
+	text-decoration: none;
+}
+.truyenhot img{
+	height: auto;
+	width: 100%;
+}
+.truyenhot a{
+	color: #479f76;
+}
+.truyenhot {
+	 margin-top: 4%;
+}
+.truyenfull img{
+	height: auto;
+	width: 100%;
+}
+.truyenfull{
+	margin-top:4% ;
+}
+.truyenfull a{
+	color: #479f76;
+}
+footer{
+	margin-top: 4%;
+}
+footer a{
+	color: #479f76;
+}
+.nav {
+	height: 80px;
+    margin-top: 15px;
+}
+.dstruyenhot img{
+	height: auto;
+	width: 100%;
+}
+.dstruyenmoi img{
+	height: auto;
+	width: 100%;
+}
+a,p{
+	font-family: Times New Roman;
+}
+.trangchu a{
+	font-family: fontcv;
+}
+a{
+	color: #479f76;
+}
+.dstruyenhot a{
+	font-size: 18px;
+	text-align: center;
+}
