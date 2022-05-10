@@ -64,7 +64,8 @@ footer a{
 	width: 100%;
 }
 a,p{
-	font-family: Times New Roman;
+	font-family: 'Playfair Display', serif;
+	
 }
 .trangchu a{
 	font-family: fontcv;
@@ -75,4 +76,7 @@ a{
 .dstruyenhot a{
 	font-size: 18px;
 	text-align: center;
+}
+a {
+	
 }
